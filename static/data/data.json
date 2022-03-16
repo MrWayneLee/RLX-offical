@@ -1,0 +1,250 @@
+{
+	"carousel": {
+		"carouselList": [
+			{
+				"img": "https://s2.loli.net/2022/03/10/58QSgFjkArlL2YR.png",
+				"title": "RLX",
+				"content": "一个休闲养老的社区"
+			}, {
+				"img": "https://s2.loli.net/2022/03/10/huq2rMd6Yz4EpmQ.png",
+				"title": "宗旨",
+				"content": "养老、鸽子"
+			}, {
+				"img": "https://s2.loli.net/2022/03/10/SYjiR6nuPCmFVxM.jpg",
+				"title": "宗旨",
+				"content": "养老、鸽子"
+			}
+		]
+	}, 
+	"indexInfo": [
+		{
+			"title": "养老的港湾",
+			"subTitle": "Peace & love.",
+			"img": "https://s2.loli.net/2022/03/10/58QSgFjkArlL2YR.png",
+			"text": "生活已经够卷了，Minecraft可不能这样。"
+		}, {
+			"title": "鸽子一去不复返",
+			"subTitle": "Pigeon fly in the sky.",
+			"img": "https://s2.loli.net/2022/03/10/huq2rMd6Yz4EpmQ.png",
+			"text": "在这片自由的土地上，你会发现：全都飞跑了。",
+			"bg": "bg-blue"
+		}, {
+			"title": "火柴盒与穴居人",
+			"subTitle": "Match box and cave man.",
+			"img": "https://s2.loli.net/2022/03/10/SYjiR6nuPCmFVxM.jpg",
+			"text": "房子可是个稀奇东西。"
+		}, {
+			"title": "没有很懒只有更懒",
+			"subTitle": "Just stand there, you go.",
+			"img": "https://s2.loli.net/2022/03/10/oN3dMcCQPmxv5t4.jpg",
+			"text": "打字就能解决的事，为何还要费劲的搓屏幕呢。",
+			"bg": "bg-green"
+		}, {
+			"title": "麻雀虽小五脏俱全",
+			"subTitle": "We have a lot of useless stuff.",
+			"img": "https://s2.loli.net/2022/03/10/pTRDIHhxGWyoqME.jpg",
+			"text": "不出意外的话，应该有你想要的。"
+		}
+	],
+	"galleryList": [
+		{
+			"img": ["https://s2.loli.net/2022/03/10/P4CseH916trTcJ5.jpg"],
+			"name": "粉红教堂(外景)",
+			"owner": "careflylc",
+			"original": false,
+			"creator": "a",
+			"area": 1
+		}, {
+			"img": ["https://s2.loli.net/2022/03/10/W9HlUASZL48Cw7a.jpg"],
+			"name": "五重塔",
+			"owner": "Shiozakanaa",
+			"original": false,
+			"creator": "a",
+			"area": 1
+		}, {
+			"img": ["https://s2.loli.net/2022/03/10/olpCQB5FU8gv4Zw.jpg"],
+			"name": "埃菲尔铁塔",
+			"owner": "careflylc",
+			"original": false,
+			"creator": "a",
+			"area": 1
+		}, {
+			"img": ["https://s2.loli.net/2022/03/10/SBL7xmbdJtl2DCi.jpg"],
+			"name": "Naa城",
+			"owner": "Shiozakanaa",
+			"original": false,
+			"creator": "a",
+			"area": 1
+		}, {
+			"img": ["https://s2.loli.net/2022/03/10/huq2rMd6Yz4EpmQ.png"],
+			"name": "小洋楼",
+			"owner": "MrWayneLee",
+			"original": false,
+			"creator": "a",
+			"area": 1
+		}, {
+			"img": ["https://s2.loli.net/2022/03/10/qOYauPAZ965rX1k.jpg"],
+			"name": "中央商务区",
+			"owner": "MrWayneLee",
+			"original": true,
+			"area": 1
+		}, {
+			"img": ["https://s2.loli.net/2022/03/10/JFQnqYucxi4Hy8M.jpg"],
+			"name": "滨海镇图书馆",
+			"owner": "KingJames43437、AutumnCoin24081",
+			"original": false,
+			"creator": "a",
+			"area": 3
+		}, {
+			"img": ["https://s2.loli.net/2022/03/10/DRnTVl2rsvASIN3.jpg"],
+			"name": "小洋楼",
+			"owner": "KingJames43437",
+			"original": false,
+			"creator": "a",
+			"area": 3
+		}, {
+			"img": ["https://s2.loli.net/2022/03/10/QHKDpcY4s62wobM.jpg"],
+			"name": "星巴克(F1)",
+			"owner": "Bylina RAT",
+			"original": true,
+			"area": 3
+		}, {
+			"img": ["https://s2.loli.net/2022/03/10/tdLXri1Tplvazo3.jpg"],
+			"name": "四合院",
+			"owner": "KingJames43437",
+			"original": false,
+			"creator": "a",
+			"area": 3
+		}
+	],
+	"playerInfo": [
+		{
+			"name": "KingJames43437",
+			"time": 544,
+			"avatar": "",
+			"note": "",
+			"tag": [11, 5, 12]
+		}
+	],
+	"adminInfo": [
+		{
+			"name": "careflylc",
+			"time": 1020,
+			"avatar": "",
+			"note": "",
+			"tag": [1, 11, 2, 12]
+		}, {
+			"name": "bailu1999",
+			"time": 815,
+			"avatar": "",
+			"note": "",
+			"tag": [11, 8, 12]
+		}, {
+			"name": "Shiozakanaa",
+			"time": 455,
+			"avatar": "",
+			"note": "",
+			"tag": [12]
+		}, {
+			"name": "cola2961",
+			"time": 533,
+			"avatar": "",
+			"note": "",
+			"tag": [12]
+		}, {
+			"name": "MrWayneLee",
+			"time": 1011,
+			"avatar": "",
+			"note": "",
+			"tag": [11, 2, 12]
+		}
+	],
+	"tags": [
+		{
+			"id": 1,
+			"name": "服主",
+			"level": "gold",
+			"desc": "服主"
+		}, {
+			"id": 2,
+			"name": "C1",
+			"level": "gold",
+			"desc": "C1管理员"
+		}, {
+			"id": 3,
+			"name": "C1",
+			"level": "sliver",
+			"desc": "C1建设者"
+		}, {
+			"id": 4,
+			"name": "C1",
+			"level": "iron",
+			"desc": "C1成员"
+		}, {
+			"id": 5,
+			"name": "C3",
+			"level": "gold",
+			"desc": "C3管理员"
+		}, {
+			"id": 6,
+			"name": "C3",
+			"level": "sliver",
+			"desc": "C3建设者"
+		}, {
+			"id": 7,
+			"name": "C3",
+			"level": "iron",
+			"desc": "C3成员"
+		}, {
+			"id": 8,
+			"name": "C4",
+			"level": "gold",
+			"desc": "C4管理员"
+		}, {
+			"id": 9,
+			"name": "C4",
+			"level": "sliver",
+			"desc": "C4建设者"
+		}, {
+			"id": 10,
+			"name": "C4",
+			"level": "iron",
+			"desc": "C4成员"
+		}, {
+			"id": 11,
+			"name": "元老",
+			"level": "gold",
+			"desc": "首次上线时间在2020年1月31日之前的玩家"
+		}, {
+			"id": 12,
+			"name": "粉丝",
+			"level": "gold",
+			"desc": "总游戏时长大于200小时的玩家"
+		}, {
+			"id": 13,
+			"name": "粉丝",
+			"level": "sliver",
+			"desc": "总游戏时长大于100小时的玩家"
+		}, {
+			"id": 14,
+			"name": "粉丝",
+			"level": "iron",
+			"desc": "总游戏时长大于50小时的玩家"
+		}, {
+			"id": 15,
+			"name": "原创",
+			"level": "gold",
+			"desc": "拥有数量大于5的原创建筑或机器"
+		}, {
+			"id": 16,
+			"name": "原创",
+			"level": "sliver",
+			"desc": "拥有数量大于3的原创建筑或机器"
+		}, {
+			"id": 17,
+			"name": "原创",
+			"level": "iron",
+			"desc": "拥有数量大于1的原创建筑或机器"
+		}
+	]
+}
