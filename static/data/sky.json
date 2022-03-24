@@ -5040,12 +5040,19 @@
                                 "line": { "left": 0, "middle": 0, "right": 0 }
                             }
                         }, {
+                            "left": {
+                                "type": "spell",
+                                "id": 2,
+                                "currency": 1,
+                                "price": 5,
+                                "line": { "left": 0, "middle": 0, "right": 0 }
+                            },
                             "middle": {
                                 "type": "wing",
                                 "id": 1,
                                 "currency": 3,
                                 "price": 2,
-                                "line": { "left": 0, "middle": 1, "right": 0 }
+                                "line": { "left": 1, "middle": 1, "right": 0 }
                             }
                         }, {
                             "left": {
@@ -5054,7 +5061,7 @@
                                 "currency": 2,
                                 "price": 6,
                                 "expLv": 4,
-                                "line": { "left": 0, "middle": 0, "right": 0 }
+                                "line": { "left": 0, "middle": 1, "right": 0 }
                             }, 
                             "middle": {
                                 "type": "expression",
@@ -5066,10 +5073,10 @@
                             }
                         }, {
                             "left": {
-                                "type": "instrument",
-                                "id": 18,
+                                "type": "mask",
+                                "id": 3021,
                                 "currency": 1,
-                                "price": 75,
+                                "price": 48,
                                 "line": { "left": 0, "middle": 0, "right": 0 }
                             },
                             "middle": {
@@ -5077,14 +5084,14 @@
                                 "id": 2,
                                 "currency": 1,
                                 "price": 5,
-                                "line": { "left": 1, "middle": 1, "right": 0 }
+                                "line": { "left": 0, "middle": 1, "right": 0 }
                             }
                         }, {
                             "middle": {
-                                "type": "mask",
-                                "id": 3021,
+                                "type": "instrument",
+                                "id": 18,
                                 "currency": 1,
-                                "price": 58,
+                                "price": 75,
                                 "line": { "left": 0, "middle": 0, "right": 0 }
                             }
                         }
