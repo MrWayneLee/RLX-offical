@@ -4713,7 +4713,7 @@
                                 "id": 2,
                                 "currency": 1,
                                 "price": 5,
-                                "line": { "left": 0, "middle": 1, "right": 0 }
+                                "line": { "left": 1, "middle": 1, "right": 0 }
                             }
                         }, { 
                             "middle": {
